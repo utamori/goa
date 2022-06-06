@@ -5,7 +5,7 @@ go 1.14
 require (
 	github.com/dimfeld/httppath v0.0.0-20170720192232-ee938bf73598
 	github.com/dimfeld/httptreemux/v5 v5.2.2
-	github.com/getkin/kin-openapi v0.20.0
+	github.com/getkin/kin-openapi v0.96.0
 	github.com/go-openapi/loads v0.19.5
 	github.com/golang/protobuf v1.4.2
 	github.com/google/gxui v0.0.0-20151028112939-f85e0a97b3a4 // indirect
@@ -23,5 +23,5 @@ require (
 	google.golang.org/genproto v0.0.0-20200711021454-869866162049 // indirect
 	google.golang.org/grpc v1.30.0
 	google.golang.org/protobuf v1.25.0 // indirect
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 )
